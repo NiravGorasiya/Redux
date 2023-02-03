@@ -5,3 +5,6 @@ export const UPDATETO_LIST = "UPDATETO_LIST"
 
 // bycyle
 export const BYCYLE_ALL = "BYCYLE_ALL"
+export const ADD_BYCYLE = "ADD_BYCYLE"
+export const DELETE_BYCYLE = "DELETE_BYCYLE"
+export const BYCYLE_SINGLE = "BYCYLE_SINGLE"
